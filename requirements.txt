@@ -2,6 +2,8 @@ streamlit
 opencv-python
 numpy
 Pillow
+wheel
+cmake
 face-recognition
 dlib
-cmake
+
