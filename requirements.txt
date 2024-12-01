@@ -4,6 +4,7 @@ numpy
 Pillow
 wheel
 cmake
-face-recognition
 dlib
+face-recognition
+
 
