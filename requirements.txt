@@ -5,4 +5,4 @@ Pillow
 wheel
 cmake
 face-recognition==1.2.3
-dlib == 19.24.2
+dlib == 19.22.0
